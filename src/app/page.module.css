@@ -21,7 +21,7 @@
   font-size: 2.5rem;
   margin-bottom: 1rem;
   font-family: 'Anta', sans-serif;
-  
+
 }
 
 .form {
@@ -41,7 +41,7 @@
   border: 1px solid black;
   border-radius: 12px;
   background: rgba(128, 128, 128, 0.479);
-  color: white; 
+  color: black; 
   font-size: 1rem;
 }
 
